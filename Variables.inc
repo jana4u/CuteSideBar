@@ -1,5 +1,5 @@
 [Variables]
-fontFace=Segoe UI
-fontColor=255,255,255,255
-stringEffect=Shadow
-fontEffectColor=0,0,0,20
+FontFace=Segoe UI
+FontColor=255,255,255,255
+StringEffect=Shadow
+FontEffectColor=0,0,0,20

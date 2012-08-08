@@ -1,4 +1,4 @@
-[styleSeparator]
+[StyleSeparator]
 X=0
 Y=0R
 W=160
